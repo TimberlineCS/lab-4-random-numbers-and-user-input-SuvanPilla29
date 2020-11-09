@@ -13,7 +13,7 @@ public class randomLetter
         Scanner s = new Scanner(System.in);
         System.out.println("Enter a word: ");
         String n = s.next();
-        Random random = new Random();
+
         System.out.println("Random letter: " + selectAChar(n));
        
     }
