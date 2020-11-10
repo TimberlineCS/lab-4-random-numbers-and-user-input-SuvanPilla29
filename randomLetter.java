@@ -1,5 +1,9 @@
 import java.util.Scanner;
 import java.util.Random;
+
+/**
+ * This class accepts a random word and prints 
+ */
 public class randomLetter
 {
     public static char selectAChar(String s){
